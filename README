@@ -1,0 +1,13 @@
+This is a working example of the problem given to me today 
+at my Credit Karma interview. To run, open a terminal and enter: 
+
+javac Builder.java
+java Builder 10
+
+The program accounts for not entering a number into the args[0]
+and will throw an exception.
+
+Enjoy,
+Trent Russell
+trent.russell.ucsd@gmail.com
+
